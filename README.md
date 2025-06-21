@@ -1,5 +1,14 @@
 # 🏥 Azure-Based Patient Record Analytics
 
+# 🏥 Azure-Based Patient Record Analytics
+
+![Azure](https://img.shields.io/badge/Cloud-Azure-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Data Lake](https://img.shields.io/badge/Storage-DataLakeGen2-blue)
+![Serverless SQL](https://img.shields.io/badge/Query-ServerlessSQL-orange)
+![Power BI](https://img.shields.io/badge/Visualization-PowerBI-yellowgreen)
+
+
 This project demonstrates a complete **cloud-native pipeline** for analyzing synthetic Electronic Health Record (EHR) data using **Azure Data Lake Storage Gen2**, **Azure Synapse Analytics (Serverless SQL)**, and **Power BI**.
 
 ---
