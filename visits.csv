@@ -1,0 +1,183 @@
+VisitID,PatientID,Date,Reason,Outcome
+V63354,P1000,2024-04-08,Follow-up,Improved
+V22704,P1000,2024-09-17,Lab Review,Stable
+V63883,P1001,2024-01-27,Lab Review,Worsened
+V17100,P1001,2023-09-29,Checkup,Improved
+V54473,P1002,2025-03-22,Checkup,Improved
+V35112,P1002,2024-03-03,Follow-up,Worsened
+V28373,P1003,2024-06-23,Lab Review,Improved
+V46509,P1003,2024-05-02,Lab Review,Improved
+V68082,P1004,2024-01-02,Checkup,Improved
+V80855,P1005,2024-11-22,Checkup,Improved
+V40982,P1005,2024-12-24,Follow-up,Stable
+V73653,P1005,2025-06-05,Lab Review,Improved
+V17685,P1006,2024-09-13,Follow-up,Stable
+V10282,P1006,2024-08-19,Lab Review,Stable
+V47388,P1007,2024-05-27,Lab Review,Worsened
+V82845,P1007,2023-07-13,Lab Review,Improved
+V48890,P1008,2023-09-22,Follow-up,Improved
+V81066,P1009,2025-06-09,Checkup,Worsened
+V51104,P1009,2023-10-07,Checkup,Improved
+V86569,P1009,2024-09-22,Lab Review,Worsened
+V30635,P1010,2023-11-05,Checkup,Worsened
+V20500,P1010,2024-11-25,Follow-up,Improved
+V87992,P1010,2025-05-29,Checkup,Worsened
+V62923,P1011,2024-12-03,Checkup,Worsened
+V85880,P1012,2025-03-14,Checkup,Worsened
+V64948,P1013,2024-05-30,Emergency,Stable
+V97782,P1014,2024-06-08,Emergency,Improved
+V61876,P1015,2024-10-20,Follow-up,Worsened
+V94607,P1015,2023-08-10,Emergency,Stable
+V19508,P1016,2025-03-10,Checkup,Stable
+V91416,P1016,2024-11-26,Checkup,Improved
+V37938,P1017,2024-07-10,Emergency,Improved
+V55745,P1017,2024-11-23,Checkup,Improved
+V58434,P1017,2024-09-04,Emergency,Improved
+V81200,P1018,2024-11-06,Emergency,Worsened
+V95717,P1018,2023-07-07,Checkup,Worsened
+V49240,P1019,2024-10-19,Checkup,Improved
+V44664,P1019,2024-08-14,Checkup,Improved
+V82512,P1019,2025-01-20,Follow-up,Stable
+V89276,P1020,2023-11-14,Follow-up,Worsened
+V54942,P1020,2025-03-17,Follow-up,Worsened
+V44600,P1021,2024-09-09,Lab Review,Stable
+V16658,P1021,2024-05-31,Checkup,Worsened
+V65518,P1021,2024-07-06,Emergency,Improved
+V53719,P1022,2025-06-08,Follow-up,Worsened
+V31178,P1023,2024-06-25,Lab Review,Worsened
+V66057,P1023,2024-07-29,Checkup,Improved
+V29536,P1024,2023-12-10,Checkup,Stable
+V82420,P1025,2023-10-11,Follow-up,Stable
+V26704,P1025,2024-11-28,Checkup,Stable
+V57795,P1025,2023-10-18,Checkup,Stable
+V99399,P1026,2023-12-13,Follow-up,Worsened
+V56357,P1027,2024-10-28,Lab Review,Worsened
+V30257,P1028,2023-12-04,Follow-up,Improved
+V33206,P1028,2024-07-15,Lab Review,Improved
+V33509,P1028,2023-10-18,Emergency,Stable
+V42527,P1029,2024-12-30,Emergency,Improved
+V24168,P1029,2024-08-09,Lab Review,Improved
+V71694,P1029,2024-11-08,Follow-up,Improved
+V55830,P1030,2024-12-28,Emergency,Improved
+V39219,P1030,2024-06-14,Checkup,Worsened
+V62227,P1031,2024-01-27,Emergency,Stable
+V46585,P1032,2023-12-09,Emergency,Worsened
+V62386,P1033,2025-06-16,Emergency,Improved
+V25118,P1033,2024-10-10,Emergency,Improved
+V86099,P1033,2025-06-11,Emergency,Improved
+V88193,P1034,2025-03-03,Lab Review,Stable
+V51114,P1035,2023-10-08,Lab Review,Worsened
+V77033,P1035,2024-04-23,Checkup,Stable
+V85574,P1035,2023-12-18,Follow-up,Stable
+V67154,P1036,2024-10-07,Checkup,Worsened
+V97900,P1037,2024-06-27,Follow-up,Stable
+V66531,P1037,2023-10-15,Checkup,Worsened
+V53279,P1037,2025-05-03,Emergency,Worsened
+V49363,P1038,2023-08-02,Emergency,Worsened
+V52753,P1039,2024-06-25,Lab Review,Worsened
+V48752,P1039,2023-11-23,Follow-up,Improved
+V97153,P1040,2024-01-29,Lab Review,Worsened
+V32810,P1040,2024-09-23,Emergency,Stable
+V10053,P1041,2024-07-08,Emergency,Stable
+V37549,P1041,2023-07-23,Lab Review,Worsened
+V89516,P1041,2023-08-24,Emergency,Stable
+V67954,P1042,2024-11-11,Follow-up,Worsened
+V72021,P1042,2023-10-05,Follow-up,Worsened
+V47196,P1043,2023-12-06,Emergency,Improved
+V98184,P1044,2024-01-07,Emergency,Improved
+V29313,P1045,2024-09-14,Checkup,Improved
+V72277,P1046,2024-12-12,Checkup,Stable
+V92544,P1047,2025-03-13,Follow-up,Worsened
+V60328,P1047,2025-03-26,Lab Review,Stable
+V29342,P1048,2024-12-21,Checkup,Improved
+V38683,P1049,2024-08-28,Follow-up,Worsened
+V77889,P1049,2024-08-03,Lab Review,Improved
+V42662,P1050,2023-12-14,Checkup,Stable
+V27477,P1050,2023-07-12,Lab Review,Worsened
+V79616,P1050,2023-07-22,Emergency,Stable
+V76162,P1051,2023-06-28,Lab Review,Worsened
+V68446,P1051,2023-07-06,Follow-up,Worsened
+V72216,P1051,2024-03-16,Lab Review,Stable
+V93579,P1052,2023-12-09,Emergency,Worsened
+V92149,P1053,2024-11-02,Follow-up,Stable
+V67654,P1053,2023-08-12,Checkup,Worsened
+V40735,P1054,2023-07-15,Emergency,Stable
+V51904,P1054,2023-11-09,Checkup,Improved
+V40311,P1055,2023-10-13,Lab Review,Worsened
+V38043,P1056,2024-06-28,Checkup,Stable
+V53369,P1057,2025-01-18,Lab Review,Stable
+V18161,P1057,2025-06-15,Follow-up,Stable
+V86556,P1058,2024-05-21,Checkup,Worsened
+V59857,P1058,2024-01-18,Lab Review,Improved
+V49139,P1059,2024-10-06,Lab Review,Stable
+V80545,P1059,2024-08-20,Follow-up,Stable
+V45774,P1060,2024-11-21,Lab Review,Stable
+V60968,P1061,2024-05-11,Emergency,Worsened
+V62994,P1062,2025-03-18,Follow-up,Stable
+V26728,P1062,2023-08-08,Checkup,Stable
+V87580,P1062,2023-12-07,Checkup,Improved
+V66179,P1063,2023-12-02,Follow-up,Stable
+V33819,P1063,2024-03-24,Checkup,Stable
+V59689,P1063,2024-05-29,Emergency,Improved
+V52840,P1064,2024-01-24,Emergency,Stable
+V46471,P1064,2024-10-25,Lab Review,Stable
+V71644,P1065,2023-12-14,Checkup,Worsened
+V16826,P1066,2025-06-02,Emergency,Improved
+V95215,P1066,2025-01-20,Checkup,Worsened
+V15276,P1066,2025-06-07,Checkup,Improved
+V12671,P1067,2024-08-22,Follow-up,Improved
+V72070,P1068,2025-02-14,Checkup,Worsened
+V70952,P1069,2025-04-01,Emergency,Stable
+V89415,P1070,2024-05-23,Checkup,Improved
+V24168,P1071,2024-02-11,Checkup,Stable
+V85470,P1071,2024-09-14,Lab Review,Stable
+V35995,P1072,2025-05-19,Checkup,Worsened
+V92213,P1072,2023-12-19,Follow-up,Improved
+V49529,P1072,2023-09-21,Checkup,Worsened
+V55508,P1073,2024-07-20,Lab Review,Worsened
+V19038,P1074,2025-04-23,Emergency,Improved
+V65057,P1074,2023-07-02,Lab Review,Improved
+V57472,P1075,2023-11-28,Lab Review,Worsened
+V30052,P1075,2025-03-01,Lab Review,Improved
+V78386,P1076,2024-08-02,Emergency,Worsened
+V80539,P1076,2023-09-08,Lab Review,Stable
+V67091,P1076,2023-07-23,Emergency,Stable
+V21359,P1077,2024-06-19,Emergency,Stable
+V70910,P1078,2024-04-14,Lab Review,Stable
+V74789,P1079,2025-03-14,Emergency,Improved
+V37802,P1080,2024-04-30,Emergency,Stable
+V54608,P1080,2024-07-02,Emergency,Worsened
+V46211,P1081,2024-09-18,Checkup,Worsened
+V35042,P1081,2025-03-02,Checkup,Improved
+V63271,P1081,2023-10-26,Lab Review,Worsened
+V72402,P1082,2025-04-29,Lab Review,Stable
+V22196,P1083,2023-06-28,Emergency,Improved
+V41890,P1084,2024-05-29,Emergency,Worsened
+V86225,P1084,2025-06-01,Emergency,Stable
+V79588,P1085,2024-09-18,Emergency,Stable
+V82140,P1085,2024-10-19,Emergency,Stable
+V69473,P1085,2024-10-04,Emergency,Stable
+V40217,P1086,2024-09-16,Checkup,Worsened
+V35242,P1086,2024-01-13,Emergency,Improved
+V80236,P1087,2023-06-28,Follow-up,Improved
+V38361,P1087,2023-08-16,Lab Review,Stable
+V87278,P1087,2024-06-29,Emergency,Improved
+V48829,P1088,2023-09-08,Follow-up,Stable
+V49618,P1089,2025-01-06,Checkup,Worsened
+V26591,P1090,2023-12-29,Emergency,Improved
+V17146,P1090,2023-12-24,Emergency,Worsened
+V26551,P1090,2024-05-05,Lab Review,Improved
+V85243,P1091,2024-10-06,Emergency,Stable
+V67733,P1092,2025-03-09,Emergency,Improved
+V16734,P1092,2023-11-29,Emergency,Stable
+V18564,P1093,2024-07-09,Lab Review,Stable
+V85631,P1094,2024-12-25,Checkup,Improved
+V83772,P1095,2024-02-07,Emergency,Improved
+V25525,P1096,2023-10-09,Lab Review,Worsened
+V91057,P1097,2025-03-14,Follow-up,Worsened
+V59856,P1097,2024-11-11,Lab Review,Stable
+V48974,P1097,2024-02-04,Lab Review,Stable
+V91399,P1098,2024-05-10,Checkup,Worsened
+V23006,P1098,2024-09-28,Follow-up,Worsened
+V37659,P1098,2023-08-16,Emergency,Worsened
+V30585,P1099,2025-04-28,Follow-up,Improved
