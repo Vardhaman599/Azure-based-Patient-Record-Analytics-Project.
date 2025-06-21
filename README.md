@@ -1,7 +1,5 @@
 # 🏥 Azure-Based Patient Record Analytics
 
-# 🏥 Azure-Based Patient Record Analytics
-
 ![Azure](https://img.shields.io/badge/Cloud-Azure-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Data Lake](https://img.shields.io/badge/Storage-DataLakeGen2-blue)
