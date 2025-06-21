@@ -1,5 +1,3 @@
-# Azure-based-Patient-Record-Analytics-Project.
-
 # 🏥 Azure-Based Patient Record Analytics
 
 This project demonstrates a complete **cloud-native pipeline** for analyzing synthetic Electronic Health Record (EHR) data using **Azure Data Lake Storage Gen2**, **Azure Synapse Analytics (Serverless SQL)**, and **Power BI**.
