@@ -1,10 +1,3 @@
-
--- ================================
--- Reusable Query Pack for Serverless SQL Pool
--- Author: ChatGPT
--- Date: 2025-06-21
--- ================================
-
 -- 1️⃣ Clean Patients
 SELECT
     PatientID,
